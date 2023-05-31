@@ -3,8 +3,10 @@
 #### Information
  This README.md is modified on 6th June 2019.<br />
  Author: Youngjun Cho<br />
- * Assistant Professor, UCL Computer Science
+ * UCL Computer Science
  * Email: youngjun.cho@ucl.ac.uk<br />
+
+Original page: https://github.com/deepneuroscience/DeepThermalImaging <br />
 
 ##### 　 　
 #### Requirement
